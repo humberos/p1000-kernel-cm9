@@ -1,0 +1,1 @@
+Kernel for Samsung Galaxy Tab
